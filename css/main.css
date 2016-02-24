@@ -3,8 +3,10 @@
 	height: 100px;
 	font-size: 50px;
 }
-ul{list-style: none;
+ul{
+	list-style: none;
 margin-left: 140px;
+
    
 }
 li{
