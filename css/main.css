@@ -1,0 +1,130 @@
+.negro{
+	background-color: black;
+	height: 100px;
+	font-size: 50px;
+}
+ul{list-style: none;
+margin-left: 140px;
+   
+}
+li{
+	float: left;
+	font-size:18px;
+	margin-left: 20px;
+    left: 40px;
+
+}
+.foto1{
+	width: 80%;
+	height: 60%;
+	right: 50px;
+}
+hr{
+	height: 4px;
+	background-color: #f8f8f8;
+}
+.sub{
+	
+margin-left: 80px;
+}
+.boton{
+	background-color: #999;
+	height: 40px;
+	width: 150px;
+	left: 100px;
+	border-radius: 8px;
+}
+.boton1{
+	background-color: #999;
+	height: 40px;
+	width: 110px;
+	left: 100px;
+	margin-top: 30px;
+	border-radius: 8px;
+}
+.derechobo{
+margin-left:600px;
+}
+.twitter{
+	width: 90px;
+	height: 90px;
+}
+.chico{
+	width: 80px;
+	height: 30px;
+     background-color: #999;
+}
+.derecha{
+     margin-left: 400px;
+     margin-top: -80px;
+
+
+}
+.zise{
+	font-size: 22px;
+	color: #999999;
+}
+.foter{
+	background-color:#17202A;
+	height: auto;
+	margin-top: 50px;
+	
+}
+.tamano{
+	font-size: 40px;
+}
+.morado{
+	color: #C8B0C9;  
+	font-size:20px;
+}
+.lista{
+	font-size: 14px;
+	margin-right: 50px;
+
+}
+ol{
+list-style: none;
+
+   
+}
+.texchico{
+	font-size: 12px;
+}
+.azul{
+	color: #2E86C1;
+}
+.comillas{
+	font-size: 32px;
+}
+.rojo{
+	color: red;
+}
+.ancho{
+	width: 90%;
+	margin-left: 80px;
+}
+.rosa{
+	width: 60px;
+	height: 20px;
+	background-color:#FE419D  ;
+
+}
+.mediana{
+	font-size: 24px;
+}
+.final{
+	width: 200px;
+	height: 40px;
+	background-color: #2E4053;
+	margin-top: 10%;
+	-webkit-box-shadow: inset 58px 40px 126px -62px rgba(0,0,0,0.82);
+-moz-box-shadow: inset 58px 40px 126px -62px rgba(0,0,0,0.82);
+box-shadow: inset 58px 40px 126px -62px rgba(0,0,0,0.82);
+}
+#fondo{
+	background-image: url("../img/diagonal.png");
+	}
+.alado{
+	margin-left:20px;
+
+}
